@@ -22,5 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FirstKotlin"
+rootProject.name = "Kotlin_learn"
 include(":app")
+ 
